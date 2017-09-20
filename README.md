@@ -14,6 +14,5 @@ Step 2: Simple offers
  - buy one, get one free on Apples
  - 3 for the price of 2 on Oranges
 
-Setup
------
+
 
