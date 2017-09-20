@@ -1,19 +1,7 @@
 Shopping Cart - BDD example of Scala
 ====================================
 
-Application built with the following (main) technologies:
-
-- Scala 2.11.2
-
-- SBT 0.13.5
-
-- Specs2 2.4.2
-
-Introduction
-------------
-
-Satisfy the given requirements:
-
+A
 Step 1: Shopping cart
 - You are building a checkout system for a shop which only sells apples and oranges.  
 - Apples cost 60p and oranges cost 25p.
@@ -29,16 +17,3 @@ Step 2: Simple offers
 Setup
 -----
 
-
-Go into the application's new project directory (with the "cd" shown) and complete the following:
-> $ cd shopping-cart
-
-> $ activator
-
-> [shopping-cart] $ update-classifiers
-
-> [shopping-cart] $ gen-idea sbt-classifiers
-
-> [shopping-cart] $ test
-
-Hopefully all (unit) "specs" will pass and you can now open up IntelliJ and start going through "The Code" as explained below.
